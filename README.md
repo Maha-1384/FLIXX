@@ -1,9 +1,6 @@
----
-
-#🎬 FLIXX – Movie & TV Show Catalog
+# FLIXX – Movie & TV Show Catalog
 
 **FLIXX** is a modern, responsive web application designed to showcase a comprehensive catalog of movies and TV shows. Built with HTML, CSS, and JavaScript, it provides users with an intuitive interface to browse, search, and view detailed information about their favorite entertainment content.
-
 ---
 
 ## 🌟 Features
